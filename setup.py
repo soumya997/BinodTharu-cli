@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="binodtharu-cli",
-    version="0.1",
+    version="0.4",
     author="Sayantan Das, Soumyadip Sarkar",
     author_email="sayantandas30011998@gmail.com, soumya997.sarkar@gmail.com",
     description="Binod",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/forkbabu/BinodTharu",
+    url="https://github.com/soumya997/BinodTharu-cli",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
