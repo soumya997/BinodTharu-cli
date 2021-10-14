@@ -6,9 +6,9 @@ This ain't no useless shit hon. A low code drive file downloader that's what it 
 
 # Usage
 
-```
-from binodtharu.binodfile import binodfunc
-binodfunc('https://drive.google.com/file/d/1idYyq8CVm81WguiXyTuBCbXS53VT04YP/view?usp=sharing') # This mofo lets you download any (publicly available) Drive file/folder.
+```python
+from binodcli.binodfile import binodfunc
+binodfunc('https://drive.google.com/file/d/15CJ-dulqm-piGea1kRpWZZXS3-G5-ccH/view?usp=sharing') # This mofo lets you download any (publicly available) Drive file/folder.
 ```
 
 ```
